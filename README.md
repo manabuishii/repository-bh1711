@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/manabuishii/repository-bh1711.svg?branch=master)](https://travis-ci.org/manabuishii/repository-bh1711)
+
 # 国内版バイオハッカソンの GitHub セッション
 
 テスト用に作りました。
