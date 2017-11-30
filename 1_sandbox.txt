@@ -22,3 +22,5 @@ https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8B
 テストの書き込みです。
 
 テスト書き込み
+1. まずは、code のぶらんちを manabuishii-patch-7 にして、それから
+   このファイルを修正しました

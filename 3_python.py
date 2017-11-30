@@ -8,7 +8,7 @@ def test1():
   print("ここはtest1")
   
 def test2():
-  print("ここはes2")
+  print("ここはtest200000")
 
 def test3():
   for i in range(10):
