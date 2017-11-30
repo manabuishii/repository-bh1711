@@ -26,3 +26,9 @@ TODO: やり方を書く予定予定。
 ![pullrequest](./pullrequest.gif)
 
 この画像の作成には [LICEcap](https://www.cockos.com/licecap/) を使いました
+
+
+
+# 自分のプロジェクトへのプルリクエスト
+
+てすとてすと
