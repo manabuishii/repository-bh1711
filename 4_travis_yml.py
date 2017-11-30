@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 # このファイルを Travis で、テストしています。
 # 
-print("Hello world!")
+print("Hello world")
 print("２行目にはこの出力が期待されます。")
-for in range(1,3):
+for i in range(3, 6):
   print("ループ%d" % i)
 
