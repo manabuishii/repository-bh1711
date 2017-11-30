@@ -3,4 +3,4 @@ python:
   - 2.7
 script:
   - python 4_travis_yml.py > travis.output.txt
-  - diff travis.output.txt travis.expected.txt
+  - diff -u travis.output.txt travis.expected.txt
