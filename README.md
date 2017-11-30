@@ -23,5 +23,6 @@ TODO: やり方を書く予定予定。
 
 # Pull Request のやり方、例
 
+![pullrequest](./pullrequest.gif)
 
-
+この画像の作成には [Cockos Incorporated \| LICEcap](https://www.cockos.com/licecap/) を使いました
